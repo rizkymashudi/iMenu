@@ -1,13 +1,13 @@
 # iMenu
-SwiftUI Practice  
+SwiftUI Practice 📱
 
-🔨 Build menu using List
-🔨 Composing views to create a list row
-🔨 Polish designs with fonts and colors
-🔨 Display detail screen with NavigationLink
-🔨 Observable objects, environment objects, and @Published
-🔨 Add items to an order with @EnvironmentObject
-🔨 Add TabView and tabItem()
-🔨 Bindings and forms
-🔨 Two-way bindings in SwiftUI
-🔨 Formatting interpolated strings in SwiftUI
+🔨 Build menu using List <br />
+🔨 Composing views to create a list row <br />
+🔨 Polish designs with fonts and colors <br />
+🔨 Display detail screen with NavigationLink <br />
+🔨 Observable objects, environment objects, and @Published <br />
+🔨 Add items to an order with @EnvironmentObject <br />
+🔨 Add TabView and tabItem() <br />
+🔨 Bindings and forms <br />
+🔨 Two-way bindings in SwiftUI <br />
+🔨 Formatting interpolated strings in SwiftUI <br />
